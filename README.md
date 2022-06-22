@@ -1,7 +1,13 @@
+<style>
+  h1 {
+    color: lightblue;
+  }
+</style>
+
 # cARES
 #### ARES language compiler
 
-```ares
+```js
 fnc init
   Print("Hello, World!")
 ..fnc
