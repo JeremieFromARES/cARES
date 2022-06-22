@@ -1,11 +1,6 @@
-<style>
-  h1 {
-    color: lightblue;
-  }
-</style>
-
-# cARES
+## cARES
 #### ARES language compiler
+#
 
 ```js
 fnc init
