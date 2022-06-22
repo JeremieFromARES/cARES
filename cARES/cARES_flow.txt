@@ -1,0 +1,57 @@
+[FIRST PASS] -> String separation
+	|
+	|> Iterate each char
+		|
+		|> Remove comments
+		|
+		|> Split strings from non-strings
+		|
+		|> Handle escape chars
+
+_______________________________________________________________________________________________________________________
+
+
+[SECOND PASS] -> Tokenization: identification of tokens.
+	|
+	|> Split each tokens
+	|
+	|> Iterate each tokens
+		|
+		|> Assign TokenType to token
+
+_______________________________________________________________________________________________________________________
+
+
+[THIRD PASS] -> Declaration: get as much data as possible.
+	|
+	|> Iterate each tokens
+		|
+		|> Variable declaration -> (Label, Type, Scope)
+		|
+		|> Function declaration -> (Label, ReturnType, Arguments, Scope)
+		|
+		|> Blocks declaration -> (Label, Scope)
+
+_______________________________________________________________________________________________________________________
+
+
+[FOURTH PASS] -> Separate instructions & Translate
+	|
+	|> Define instruction -> (InstructType, Tokens)
+	|	|
+	|	|> Separate SubInstructions -> (SubInstType, Tokens)
+	|
+	|> TypeCheck SubInstructions using declared variables/methods
+	|
+	|> Translate
+
+
+
+
+
+
+
+
+
+
+

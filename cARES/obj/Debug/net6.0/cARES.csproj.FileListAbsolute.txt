@@ -1,0 +1,15 @@
+C:\vs\cARES\cARES\bin\Debug\net6.0\cARES.exe
+C:\vs\cARES\cARES\bin\Debug\net6.0\cARES.deps.json
+C:\vs\cARES\cARES\bin\Debug\net6.0\cARES.runtimeconfig.json
+C:\vs\cARES\cARES\bin\Debug\net6.0\cARES.dll
+C:\vs\cARES\cARES\bin\Debug\net6.0\cARES.pdb
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.csproj.AssemblyReference.cache
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.AssemblyInfoInputs.cache
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.AssemblyInfo.cs
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.csproj.CoreCompileInputs.cache
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.dll
+C:\vs\cARES\cARES\obj\Debug\net6.0\refint\cARES.dll
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.pdb
+C:\vs\cARES\cARES\obj\Debug\net6.0\cARES.genruntimeconfig.cache
+C:\vs\cARES\cARES\obj\Debug\net6.0\ref\cARES.dll
