@@ -1,6 +1,6 @@
-## cARES
+# cARES
 #### ARES language compiler
-#
+
 
 ```js
 fnc init
