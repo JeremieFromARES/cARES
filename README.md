@@ -8,7 +8,13 @@ fnc init
 
 // Or ...
 
-fnc init(arr<str>) {
+fnc init() {
   Print("Hello, World!");
 }
+
+function init(arr<str>) {
+  Print("Hello, World!")
+}
+
+// ARES is a language that adapts to its user, not the other way around.
 ```
