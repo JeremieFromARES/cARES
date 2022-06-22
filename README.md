@@ -2,7 +2,7 @@
 #### ARES language compiler
 
 
-```js
+```
 fnc init
   Print("Hello, World!")
 ..fnc
